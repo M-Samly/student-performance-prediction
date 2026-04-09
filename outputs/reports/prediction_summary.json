@@ -1,0 +1,13 @@
+{
+    "total_students": 6519,
+    "predicted_pass": 3219,
+    "predicted_fail": 3300,
+    "risk_distribution": {
+        "High": 3300,
+        "Medium": 266,
+        "Low": 2953
+    },
+    "accuracy": 0.9337321675103544,
+    "at_risk_count": 3566,
+    "at_risk_percentage": 54.7016413560362
+}

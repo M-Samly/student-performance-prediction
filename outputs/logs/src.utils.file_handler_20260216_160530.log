@@ -1,0 +1,12 @@
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\student_records.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully loaded 200 rows and 4 columns
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\attendance.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully loaded 200 rows and 2 columns
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\assessments.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully loaded 200 rows and 8 columns
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\exam_results.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully loaded 200 rows and 2 columns
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully saved 200 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\validation_report.json
+2026-02-16 16:05:30 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\validation_report.json

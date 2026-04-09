@@ -1,0 +1,14 @@
+2026-02-16 16:43:53 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\studentInfo.csv
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 12 columns
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\studentAssessment.csv
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Successfully loaded 173912 rows and 5 columns
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\studentRegistration.csv
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 5 columns
+2026-02-16 16:43:54 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\studentVle.csv
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Successfully loaded 10655280 rows and 6 columns
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\assessments.csv
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Successfully loaded 206 rows and 6 columns
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\courses.csv
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Successfully loaded 22 rows and 3 columns
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\vle.csv
+2026-02-16 16:44:05 - src.utils.file_handler - INFO - Successfully loaded 6364 rows and 6 columns

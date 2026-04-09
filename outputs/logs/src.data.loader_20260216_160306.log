@@ -1,0 +1,7 @@
+2026-02-16 16:03:06 - src.data.loader - INFO - Loading all data files...
+2026-02-16 16:03:06 - src.data.loader - INFO - All files loaded successfully
+2026-02-16 16:03:06 - src.data.loader - INFO - Merging datasets...
+2026-02-16 16:03:06 - src.data.loader - INFO - Merged attendance data: 200 rows
+2026-02-16 16:03:06 - src.data.loader - INFO - Merged assessments data: 200 rows
+2026-02-16 16:03:06 - src.data.loader - INFO - Merged exam results data: 200 rows
+2026-02-16 16:03:06 - src.data.loader - INFO - Final merged dataset: 200 rows, 13 columns

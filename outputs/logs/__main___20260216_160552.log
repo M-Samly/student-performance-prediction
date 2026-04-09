@@ -1,0 +1,24 @@
+2026-02-16 16:05:52 - __main__ - INFO - ==================================================
+2026-02-16 16:05:52 - __main__ - INFO - STEP 2: DATA PREPROCESSING AND FEATURE ENGINEERING
+2026-02-16 16:05:52 - __main__ - INFO - ==================================================
+2026-02-16 16:05:52 - __main__ - INFO - Loaded data: (200, 13)
+2026-02-16 16:05:52 - __main__ - INFO - Cleaned data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:05:52 - __main__ - INFO - 
+Feature Engineering...
+2026-02-16 16:05:52 - __main__ - INFO - Featured data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 16:05:52 - __main__ - INFO - 
+Selected 9 features for modeling
+2026-02-16 16:05:52 - __main__ - INFO - Features: ['age', 'attendance_percentage', 'assignment_1', 'assignment_2', 'assignment_3', 'quiz_1', 'quiz_2', 'quiz_3', 'midterm_score']
+2026-02-16 16:05:52 - __main__ - INFO - 
+Data split:
+2026-02-16 16:05:52 - __main__ - INFO -   Training: 140 samples (70.0%)
+2026-02-16 16:05:52 - __main__ - INFO -   Validation: 20 samples (10.0%)
+2026-02-16 16:05:52 - __main__ - INFO -   Test: 40 samples (20.0%)
+2026-02-16 16:05:52 - __main__ - INFO - 
+Class distribution:
+2026-02-16 16:05:52 - __main__ - INFO -   Training - Pass: 125, Fail: 15
+2026-02-16 16:05:52 - __main__ - INFO -   Validation - Pass: 18, Fail: 2
+2026-02-16 16:05:52 - __main__ - INFO -   Test - Pass: 36, Fail: 4
+2026-02-16 16:05:52 - __main__ - INFO - 
+All splits saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split
+2026-02-16 16:05:52 - __main__ - INFO - Preprocessing complete!

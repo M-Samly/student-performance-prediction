@@ -1,0 +1,8 @@
+2026-04-09 16:16:17 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-04-09 16:16:18 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 28 columns
+2026-04-09 16:17:17 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-04-09 16:17:18 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 28 columns
+2026-04-09 16:17:19 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-04-09 16:17:19 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 29 columns
+2026-04-09 16:17:19 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-04-09 16:17:20 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 53 columns

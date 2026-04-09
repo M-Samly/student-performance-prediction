@@ -1,0 +1,124 @@
+2026-02-16 21:21:52 - __main__ - INFO - ==================================================
+2026-02-16 21:21:52 - __main__ - INFO - STEP 5: MODEL EVALUATION
+2026-02-16 21:21:52 - __main__ - INFO - ==================================================
+2026-02-16 21:21:52 - __main__ - INFO - Test set size: (6519, 21)
+2026-02-16 21:21:52 - __main__ - INFO - 
+==================================================
+2026-02-16 21:21:52 - __main__ - INFO - EVALUATING BASELINE MODEL
+2026-02-16 21:21:52 - __main__ - INFO - ==================================================
+2026-02-16 21:21:52 - __main__ - INFO - 
+Evaluating Logistic Regression...
+2026-02-16 21:21:53 - __main__ - INFO - 
+Logistic Regression Metrics:
+2026-02-16 21:21:53 - __main__ - INFO -   accuracy: 0.9018
+2026-02-16 21:21:53 - __main__ - INFO -   precision: 0.8714
+2026-02-16 21:21:53 - __main__ - INFO -   recall: 0.9292
+2026-02-16 21:21:53 - __main__ - INFO -   f1_score: 0.8993
+2026-02-16 21:21:53 - __main__ - INFO -   specificity: 0.8774
+2026-02-16 21:21:53 - __main__ - INFO -   roc_auc: 0.9608
+2026-02-16 21:21:53 - __main__ - INFO - 
+Confusion Matrix:
+[[3020  422]
+ [ 218 2859]]
+2026-02-16 21:21:53 - __main__ - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.93      0.88      0.90      3442
+        Pass       0.87      0.93      0.90      3077
+
+    accuracy                           0.90      6519
+   macro avg       0.90      0.90      0.90      6519
+weighted avg       0.90      0.90      0.90      6519
+
+2026-02-16 21:21:56 - __main__ - INFO - Performing SHAP analysis for Logistic Regression...
+2026-02-16 21:21:59 - __main__ - INFO - 
+==================================================
+2026-02-16 21:21:59 - __main__ - INFO - EVALUATING RANDOM FOREST
+2026-02-16 21:21:59 - __main__ - INFO - ==================================================
+2026-02-16 21:21:59 - __main__ - INFO - 
+Evaluating Random Forest...
+2026-02-16 21:22:00 - __main__ - INFO - 
+Random Forest Metrics:
+2026-02-16 21:22:00 - __main__ - INFO -   accuracy: 0.9233
+2026-02-16 21:22:00 - __main__ - INFO -   precision: 0.8806
+2026-02-16 21:22:00 - __main__ - INFO -   recall: 0.9688
+2026-02-16 21:22:00 - __main__ - INFO -   f1_score: 0.9226
+2026-02-16 21:22:00 - __main__ - INFO -   specificity: 0.8826
+2026-02-16 21:22:00 - __main__ - INFO -   roc_auc: 0.9785
+2026-02-16 21:22:00 - __main__ - INFO - 
+Confusion Matrix:
+[[3038  404]
+ [  96 2981]]
+2026-02-16 21:22:00 - __main__ - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.97      0.88      0.92      3442
+        Pass       0.88      0.97      0.92      3077
+
+    accuracy                           0.92      6519
+   macro avg       0.93      0.93      0.92      6519
+weighted avg       0.93      0.92      0.92      6519
+
+2026-02-16 21:22:04 - __main__ - INFO - Performing SHAP analysis for Random Forest...
+2026-02-16 21:22:13 - __main__ - INFO - 
+==================================================
+2026-02-16 21:22:13 - __main__ - INFO - EVALUATING GRADIENT BOOSTING
+2026-02-16 21:22:13 - __main__ - INFO - ==================================================
+2026-02-16 21:22:13 - __main__ - INFO - 
+Evaluating Gradient Boosting...
+2026-02-16 21:22:13 - __main__ - INFO - 
+Gradient Boosting Metrics:
+2026-02-16 21:22:13 - __main__ - INFO -   accuracy: 0.9337
+2026-02-16 21:22:13 - __main__ - INFO -   precision: 0.9108
+2026-02-16 21:22:13 - __main__ - INFO -   recall: 0.9529
+2026-02-16 21:22:13 - __main__ - INFO -   f1_score: 0.9314
+2026-02-16 21:22:13 - __main__ - INFO -   specificity: 0.9166
+2026-02-16 21:22:13 - __main__ - INFO -   roc_auc: 0.9825
+2026-02-16 21:22:13 - __main__ - INFO - 
+Confusion Matrix:
+[[3155  287]
+ [ 145 2932]]
+2026-02-16 21:22:13 - __main__ - INFO - 
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.96      0.92      0.94      3442
+        Pass       0.91      0.95      0.93      3077
+
+    accuracy                           0.93      6519
+   macro avg       0.93      0.93      0.93      6519
+weighted avg       0.93      0.93      0.93      6519
+
+2026-02-16 21:22:16 - __main__ - INFO - Performing SHAP analysis for Gradient Boosting...
+2026-02-16 21:22:21 - __main__ - INFO - 
+==================================================
+2026-02-16 21:22:21 - __main__ - INFO - MODEL COMPARISON
+2026-02-16 21:22:21 - __main__ - INFO - ==================================================
+2026-02-16 21:22:21 - __main__ - INFO - 
+Final Model Comparison:
+2026-02-16 21:22:21 - __main__ - INFO - 
+                     accuracy  precision    recall  f1_score  specificity   roc_auc
+Logistic_Regression  0.901825   0.871381  0.929152  0.899339     0.877397  0.960804
+Random_Forest        0.923301   0.880650  0.968801  0.922625     0.882626  0.978546
+Gradient_Boosting    0.933732   0.910842  0.952876  0.931385     0.916618  0.982509
+2026-02-16 21:22:21 - __main__ - INFO - 
+Comparison saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\final_model_comparison.csv
+2026-02-16 21:22:22 - __main__ - INFO - 
+==================================================
+2026-02-16 21:22:22 - __main__ - INFO - BEST MODEL: Gradient_Boosting
+2026-02-16 21:22:22 - __main__ - INFO - ==================================================
+2026-02-16 21:22:22 - __main__ - INFO - F1-Score: 0.9314
+2026-02-16 21:22:22 - __main__ - INFO - Accuracy: 0.9337
+2026-02-16 21:22:22 - __main__ - INFO - Precision: 0.9108
+2026-02-16 21:22:22 - __main__ - INFO - Recall: 0.9529
+2026-02-16 21:22:22 - __main__ - INFO - ROC-AUC: 0.9825
+2026-02-16 21:22:22 - __main__ - INFO - 
+Best model info saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\best_model_evaluation.json
+2026-02-16 21:22:22 - __main__ - INFO - 
+All figures saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures
+2026-02-16 21:22:22 - __main__ - INFO - 
+==================================================
+2026-02-16 21:22:22 - __main__ - INFO - MODEL EVALUATION COMPLETE
+2026-02-16 21:22:22 - __main__ - INFO - ==================================================

@@ -1,0 +1,4 @@
+2026-02-16 21:23:28 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 21:23:29 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 53 columns
+2026-02-16 21:23:29 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 21:23:29 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json

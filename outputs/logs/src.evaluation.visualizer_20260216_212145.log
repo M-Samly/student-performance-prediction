@@ -1,0 +1,24 @@
+2026-02-16 21:21:53 - src.evaluation.visualizer - INFO - Plotting confusion matrix: Logistic Regression - Confusion Matrix
+2026-02-16 21:21:54 - src.evaluation.visualizer - INFO - Confusion matrix saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\logistic_regression_confusion_matrix.png
+2026-02-16 21:21:54 - src.evaluation.visualizer - INFO - Plotting ROC curve for Logistic Regression
+2026-02-16 21:21:55 - src.evaluation.visualizer - INFO - ROC curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\logistic_regression_roc_curve.png
+2026-02-16 21:21:55 - src.evaluation.visualizer - INFO - Plotting Precision-Recall curve for Logistic Regression
+2026-02-16 21:21:56 - src.evaluation.visualizer - INFO - Precision-Recall curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\logistic_regression_pr_curve.png
+2026-02-16 21:22:00 - src.evaluation.visualizer - INFO - Plotting confusion matrix: Random Forest - Confusion Matrix
+2026-02-16 21:22:01 - src.evaluation.visualizer - INFO - Confusion matrix saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\random_forest_confusion_matrix.png
+2026-02-16 21:22:01 - src.evaluation.visualizer - INFO - Plotting ROC curve for Random Forest
+2026-02-16 21:22:02 - src.evaluation.visualizer - INFO - ROC curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\random_forest_roc_curve.png
+2026-02-16 21:22:02 - src.evaluation.visualizer - INFO - Plotting Precision-Recall curve for Random Forest
+2026-02-16 21:22:04 - src.evaluation.visualizer - INFO - Precision-Recall curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\random_forest_pr_curve.png
+2026-02-16 21:22:11 - src.evaluation.visualizer - INFO - Plotting feature importance: Random Forest - Feature Importance
+2026-02-16 21:22:13 - src.evaluation.visualizer - INFO - Feature importance plot saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\random_forest_feature_importance.png
+2026-02-16 21:22:13 - src.evaluation.visualizer - INFO - Plotting confusion matrix: Gradient Boosting - Confusion Matrix
+2026-02-16 21:22:14 - src.evaluation.visualizer - INFO - Confusion matrix saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\gradient_boosting_confusion_matrix.png
+2026-02-16 21:22:14 - src.evaluation.visualizer - INFO - Plotting ROC curve for Gradient Boosting
+2026-02-16 21:22:15 - src.evaluation.visualizer - INFO - ROC curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\gradient_boosting_roc_curve.png
+2026-02-16 21:22:15 - src.evaluation.visualizer - INFO - Plotting Precision-Recall curve for Gradient Boosting
+2026-02-16 21:22:16 - src.evaluation.visualizer - INFO - Precision-Recall curve saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\gradient_boosting_pr_curve.png
+2026-02-16 21:22:20 - src.evaluation.visualizer - INFO - Plotting feature importance: Gradient Boosting - Feature Importance
+2026-02-16 21:22:21 - src.evaluation.visualizer - INFO - Feature importance plot saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\gradient_boosting_feature_importance.png
+2026-02-16 21:22:21 - src.evaluation.visualizer - INFO - Plotting model comparison
+2026-02-16 21:22:22 - src.evaluation.visualizer - INFO - Model comparison plot saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures\final_model_comparison.png

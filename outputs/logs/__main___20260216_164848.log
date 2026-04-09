@@ -1,0 +1,13 @@
+2026-02-16 16:48:48 - __main__ - INFO - ============================================================
+2026-02-16 16:48:48 - __main__ - INFO - STEP 2: DATA PREPROCESSING AND FEATURE ENGINEERING
+2026-02-16 16:48:48 - __main__ - INFO - ============================================================
+2026-02-16 16:48:48 - __main__ - INFO - Loaded data: (32593, 28)
+2026-02-16 16:48:48 - __main__ - INFO - 
+Handling missing values...
+2026-02-16 16:48:48 - __main__ - INFO - 
+Creating target variable...
+2026-02-16 16:48:51 - __main__ - INFO - Cleaned data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:48:51 - __main__ - INFO - 
+============================================================
+2026-02-16 16:48:51 - __main__ - INFO - FEATURE ENGINEERING
+2026-02-16 16:48:51 - __main__ - INFO - ============================================================

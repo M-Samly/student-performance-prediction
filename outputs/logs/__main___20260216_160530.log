@@ -1,0 +1,28 @@
+2026-02-16 16:05:30 - __main__ - INFO - ==================================================
+2026-02-16 16:05:30 - __main__ - INFO - STEP 1: DATA LOADING AND VALIDATION
+2026-02-16 16:05:30 - __main__ - INFO - ==================================================
+2026-02-16 16:05:30 - __main__ - INFO - 
+student_records:
+2026-02-16 16:05:30 - __main__ - INFO -   Rows: 200
+2026-02-16 16:05:30 - __main__ - INFO -   Columns: ['student_id', 'age', 'gender', 'program']
+2026-02-16 16:05:30 - __main__ - INFO - 
+attendance:
+2026-02-16 16:05:30 - __main__ - INFO -   Rows: 200
+2026-02-16 16:05:30 - __main__ - INFO -   Columns: ['student_id', 'attendance_percentage']
+2026-02-16 16:05:30 - __main__ - INFO - 
+assessments:
+2026-02-16 16:05:30 - __main__ - INFO -   Rows: 200
+2026-02-16 16:05:30 - __main__ - INFO -   Columns: ['student_id', 'assignment_1', 'assignment_2', 'assignment_3', 'quiz_1', 'quiz_2', 'quiz_3', 'midterm_score']
+2026-02-16 16:05:30 - __main__ - INFO - 
+exam_results:
+2026-02-16 16:05:30 - __main__ - INFO -   Rows: 200
+2026-02-16 16:05:30 - __main__ - INFO -   Columns: ['student_id', 'final_grade']
+2026-02-16 16:05:30 - __main__ - INFO - 
+Merged dataset summary:
+2026-02-16 16:05:30 - __main__ - INFO -   Total rows: 200
+2026-02-16 16:05:30 - __main__ - INFO -   Total columns: 13
+2026-02-16 16:05:30 - __main__ - INFO - 
+Merged data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-02-16 16:05:30 - __main__ - INFO - Validation report saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\validation_report.json
+2026-02-16 16:05:30 - __main__ - INFO - 
+Data loading and validation complete!

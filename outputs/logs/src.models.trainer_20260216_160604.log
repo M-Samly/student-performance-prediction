@@ -1,0 +1,8 @@
+2026-02-16 16:06:05 - src.models.trainer - INFO - Training Random_Forest...
+2026-02-16 16:06:05 - src.models.trainer - INFO - Training completed in 0.52 seconds
+2026-02-16 16:06:05 - src.models.trainer - INFO - Training metrics: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'roc_auc': 1.0}
+2026-02-16 16:06:05 - src.models.trainer - INFO - Validation metrics: {'accuracy': 0.9, 'precision': 0.9, 'recall': 1.0, 'f1': 0.9473684210526316, 'roc_auc': 0.9166666666666667}
+2026-02-16 16:06:06 - src.models.trainer - INFO - Training Gradient_Boosting...
+2026-02-16 16:06:06 - src.models.trainer - INFO - Training completed in 0.49 seconds
+2026-02-16 16:06:06 - src.models.trainer - INFO - Training metrics: {'accuracy': 1.0, 'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'roc_auc': 1.0}
+2026-02-16 16:06:06 - src.models.trainer - INFO - Validation metrics: {'accuracy': 0.9, 'precision': 0.9444444444444444, 'recall': 0.9444444444444444, 'f1': 0.9444444444444444, 'roc_auc': 0.7222222222222222}

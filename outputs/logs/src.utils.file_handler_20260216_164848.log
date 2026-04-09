@@ -1,0 +1,4 @@
+2026-02-16 16:48:48 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-02-16 16:48:48 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 28 columns
+2026-02-16 16:48:48 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:48:51 - src.utils.file_handler - INFO - Successfully saved 32593 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv

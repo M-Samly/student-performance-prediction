@@ -1,0 +1,17 @@
+2026-02-16 16:43:53 - src.data.loader - INFO - Loading all OULAD data files...
+2026-02-16 16:44:05 - src.data.loader - INFO - All files loaded successfully
+2026-02-16 16:44:05 - src.data.loader - INFO - Merging all datasets...
+2026-02-16 16:44:05 - src.data.loader - INFO - Base student info: 32593 rows
+2026-02-16 16:44:05 - src.data.loader - INFO - After courses merge: 32593 rows
+2026-02-16 16:44:05 - src.data.loader - INFO - Processing registration data...
+2026-02-16 16:44:05 - src.data.loader - INFO - Registration processing complete: 32593 records
+2026-02-16 16:44:05 - src.data.loader - INFO - After registration merge: 32593 rows
+2026-02-16 16:44:05 - src.data.loader - INFO - Aggregating student VLE interactions...
+2026-02-16 16:44:10 - src.data.loader - INFO - VLE aggregation complete: 29228 records
+2026-02-16 16:44:10 - src.data.loader - INFO - After VLE merge: 32593 rows
+2026-02-16 16:44:10 - src.data.loader - INFO - Aggregating student assessment scores...
+2026-02-16 16:44:10 - src.data.loader - INFO - Merged assessment data: 173912 records
+2026-02-16 16:44:10 - src.data.loader - ERROR - Error aggregating assessments: Could not convert 5560? to numeric
+2026-02-16 16:44:10 - src.data.loader - ERROR - student_assessment columns: ['id_assessment', 'id_student', 'date_submitted', 'is_banked', 'score']
+2026-02-16 16:44:10 - src.data.loader - ERROR - assessments columns: ['code_module', 'code_presentation', 'id_assessment', 'assessment_type', 'date', 'weight']
+2026-02-16 16:44:10 - src.data.loader - ERROR - Error merging datasets: Could not convert 5560? to numeric

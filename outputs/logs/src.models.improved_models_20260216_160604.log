@@ -1,0 +1,48 @@
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Training Random Forest model...
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Model trained successfully
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Training accuracy: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluating Random Forest model...
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   accuracy: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   precision: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   recall: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   f1: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   roc_auc: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluating Random Forest model...
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   accuracy: 0.9000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   precision: 0.9000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   recall: 1.0000
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   f1: 0.9474
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   roc_auc: 0.9167
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluating Random Forest model...
+2026-02-16 16:06:05 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   accuracy: 0.8750
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   precision: 0.8974
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   recall: 0.9722
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   f1: 0.9333
+2026-02-16 16:06:05 - src.models.improved_models - INFO -   roc_auc: 0.6597
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Training Gradient Boosting model...
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Model trained successfully
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Training accuracy: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluating Gradient Boosting model...
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   accuracy: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   precision: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   recall: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   f1: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   roc_auc: 1.0000
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluating Gradient Boosting model...
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   accuracy: 0.9000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   precision: 0.9444
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   recall: 0.9444
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   f1: 0.9444
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   roc_auc: 0.7222
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluating Gradient Boosting model...
+2026-02-16 16:06:06 - src.models.improved_models - INFO - Evaluation metrics:
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   accuracy: 0.8000
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   precision: 0.8889
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   recall: 0.8889
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   f1: 0.8889
+2026-02-16 16:06:06 - src.models.improved_models - INFO -   roc_auc: 0.4167

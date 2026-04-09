@@ -1,0 +1,42 @@
+2026-02-16 21:29:48 - __main__ - INFO - ==================================================
+2026-02-16 21:29:48 - __main__ - INFO - STEP 8: CREATING RISK REPORT
+2026-02-16 21:29:48 - __main__ - INFO - ==================================================
+2026-02-16 21:29:48 - __main__ - INFO - 
+Creating executive summary...
+2026-02-16 21:29:48 - __main__ - INFO - Executive summary saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\executive_summary.txt
+2026-02-16 21:29:48 - __main__ - INFO - 
+Creating detailed risk report...
+2026-02-16 21:29:48 - __main__ - INFO - Creating detailed risk report...
+2026-02-16 21:29:48 - __main__ - INFO - Detailed report created for 3566 students
+2026-02-16 21:29:48 - __main__ - INFO - Detailed risk report saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\detailed_risk_report.csv
+2026-02-16 21:29:48 - __main__ - INFO - 
+Risk Level Summary:
+2026-02-16 21:29:48 - __main__ - INFO -             count  avg_prob  min_prob  max_prob
+risk_level                                     
+High         3300     0.041     0.000     0.499
+Medium        266     0.611     0.501     0.700
+2026-02-16 21:29:48 - __main__ - INFO - 
+Creating action items...
+2026-02-16 21:29:48 - __main__ - INFO - 
+Action items saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\action_items.csv
+2026-02-16 21:29:48 - __main__ - INFO - Total action items: 2
+2026-02-16 21:29:48 - __main__ - INFO - 
+==================================================
+2026-02-16 21:29:48 - __main__ - INFO - REPORT PACKAGE SUMMARY
+2026-02-16 21:29:48 - __main__ - INFO - ==================================================
+2026-02-16 21:29:48 - __main__ - INFO - 
+Generated Reports:
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Executive Summary: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\executive_summary.txt
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Full Prediction Report: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_report_full.csv
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] At-Risk Students: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\at_risk_students.csv
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Detailed Risk Report: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\detailed_risk_report.csv
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Action Items: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\action_items.csv
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Analytics Summary: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 21:29:48 - __main__ - INFO -   [OK] Model Comparison: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\final_model_comparison.csv
+2026-02-16 21:29:48 - __main__ - INFO - 
+All reports saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports
+2026-02-16 21:29:48 - __main__ - INFO - All figures saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures
+2026-02-16 21:29:48 - __main__ - INFO - 
+==================================================
+2026-02-16 21:29:48 - __main__ - INFO - RISK REPORT CREATION COMPLETE
+2026-02-16 21:29:48 - __main__ - INFO - ==================================================

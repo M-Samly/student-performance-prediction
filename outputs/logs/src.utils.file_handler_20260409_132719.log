@@ -1,0 +1,2 @@
+2026-04-09 13:27:19 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-04-09 13:27:20 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 53 columns

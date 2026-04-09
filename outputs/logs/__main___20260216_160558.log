@@ -1,0 +1,33 @@
+2026-02-16 16:05:58 - __main__ - INFO - ==================================================
+2026-02-16 16:05:58 - __main__ - INFO - STEP 3: TRAINING BASELINE MODEL
+2026-02-16 16:05:58 - __main__ - INFO - ==================================================
+2026-02-16 16:05:58 - __main__ - INFO - Training set: (140, 9)
+2026-02-16 16:05:58 - __main__ - INFO - Validation set: (20, 9)
+2026-02-16 16:05:58 - __main__ - INFO - Test set: (40, 9)
+2026-02-16 16:05:58 - __main__ - INFO - 
+Evaluating on test set...
+2026-02-16 16:05:58 - __main__ - INFO - 
+Top 10 Most Important Features:
+2026-02-16 16:05:58 - __main__ - INFO -                  feature  coefficient  abs_coefficient
+8          midterm_score     0.153750         0.153750
+1  attendance_percentage     0.064410         0.064410
+4           assignment_3     0.054732         0.054732
+5                 quiz_1    -0.038556         0.038556
+6                 quiz_2    -0.028892         0.028892
+7                 quiz_3     0.023526         0.023526
+2           assignment_1     0.018730         0.018730
+3           assignment_2    -0.015137         0.015137
+0                    age    -0.011424         0.011424
+2026-02-16 16:05:58 - __main__ - INFO - 
+Model saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:05:58 - __main__ - INFO - Metadata saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\model_metadata.json
+2026-02-16 16:05:58 - __main__ - INFO - Feature importance saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\feature_importance.csv
+2026-02-16 16:05:58 - __main__ - INFO - 
+==================================================
+2026-02-16 16:05:58 - __main__ - INFO - BASELINE MODEL TRAINING COMPLETE
+2026-02-16 16:05:58 - __main__ - INFO - ==================================================
+2026-02-16 16:05:58 - __main__ - INFO - Test Accuracy: 0.7250
+2026-02-16 16:05:58 - __main__ - INFO - Test Precision: 0.8788
+2026-02-16 16:05:58 - __main__ - INFO - Test Recall: 0.8056
+2026-02-16 16:05:58 - __main__ - INFO - Test F1-Score: 0.8406
+2026-02-16 16:05:58 - __main__ - INFO - Test ROC-AUC: 0.5139

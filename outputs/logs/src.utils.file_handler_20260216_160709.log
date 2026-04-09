@@ -1,0 +1,12 @@
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_report_full.csv
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Successfully loaded 40 rows and 14 columns
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\at_risk_students.csv
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Successfully loaded 3 rows and 14 columns
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Loading JSON from: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_summary.json
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Successfully loaded JSON from C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_summary.json
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Loading JSON from: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 16:07:09 - src.utils.file_handler - INFO - Successfully loaded JSON from C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 16:07:10 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\detailed_risk_report.csv
+2026-02-16 16:07:10 - src.utils.file_handler - INFO - Successfully saved 3 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\detailed_risk_report.csv
+2026-02-16 16:07:10 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\action_items.csv
+2026-02-16 16:07:10 - src.utils.file_handler - INFO - Successfully saved 2 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\action_items.csv

@@ -1,0 +1,16 @@
+2026-02-16 16:50:43 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\merged_raw_data.csv
+2026-02-16 16:50:44 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 28 columns
+2026-02-16 16:50:44 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:50:46 - src.utils.file_handler - INFO - Successfully saved 32593 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:50:46 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 16:50:49 - src.utils.file_handler - INFO - Successfully saved 32593 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 16:50:50 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-02-16 16:50:50 - src.utils.file_handler - INFO - Successfully saved 22814 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-02-16 16:50:50 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\validation.csv
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Successfully saved 3260 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\validation.csv
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Successfully saved 6519 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\preprocessing_info.json
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\preprocessing_info.json
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Saving model to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\scaler.pkl
+2026-02-16 16:50:51 - src.utils.file_handler - INFO - Successfully saved model to C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\scaler.pkl

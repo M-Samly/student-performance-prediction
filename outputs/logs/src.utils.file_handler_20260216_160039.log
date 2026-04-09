@@ -1,0 +1,2 @@
+2026-02-16 16:00:39 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\student_records.csv
+2026-02-16 16:00:39 - src.utils.file_handler - ERROR - Error loading CSV from C:\Users\M.SAMLY\Desktop\student performance prediction\data\raw\student_records.csv: [Errno 2] No such file or directory: 'C:\\Users\\M.SAMLY\\Desktop\\student performance prediction\\data\\raw\\student_records.csv'

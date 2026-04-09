@@ -1,0 +1,10 @@
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Successfully loaded 22814 rows and 22 columns
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\validation.csv
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Successfully loaded 3260 rows and 22 columns
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 16:51:39 - src.utils.file_handler - INFO - Successfully loaded 6519 rows and 22 columns
+2026-02-16 16:51:44 - src.utils.file_handler - INFO - Saving model to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:51:44 - src.utils.file_handler - INFO - Successfully saved model to C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:51:44 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\model_metadata.json
+2026-02-16 16:51:44 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\model_metadata.json

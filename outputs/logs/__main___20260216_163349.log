@@ -1,0 +1,33 @@
+2026-02-16 16:33:49 - __main__ - INFO - ============================================================
+2026-02-16 16:33:49 - __main__ - INFO - STEP 1: DATA LOADING AND VALIDATION
+2026-02-16 16:33:49 - __main__ - INFO - ============================================================
+2026-02-16 16:34:06 - __main__ - INFO - 
+student_info:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 32593
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['code_module', 'code_presentation', 'id_student', 'gender', 'region', 'highest_education', 'imd_band', 'age_band', 'num_of_prev_attempts', 'studied_credits', 'disability', 'final_result']
+2026-02-16 16:34:06 - __main__ - INFO - 
+student_assessment:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 173912
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['id_assessment', 'id_student', 'date_submitted', 'is_banked', 'score']
+2026-02-16 16:34:06 - __main__ - INFO - 
+student_registration:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 32593
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['code_module', 'code_presentation', 'id_student', 'date_registration', 'date_unregistration']
+2026-02-16 16:34:06 - __main__ - INFO - 
+student_vle:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 10655280
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['code_module', 'code_presentation', 'id_student', 'id_site', 'date', 'sum_click']
+2026-02-16 16:34:06 - __main__ - INFO - 
+assessments:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 200
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['student_id', 'assignment_1', 'assignment_2', 'assignment_3', 'quiz_1', 'quiz_2', 'quiz_3', 'midterm_score']
+2026-02-16 16:34:06 - __main__ - INFO - 
+courses:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 22
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['code_module', 'code_presentation', 'module_presentation_length']
+2026-02-16 16:34:06 - __main__ - INFO - 
+vle:
+2026-02-16 16:34:06 - __main__ - INFO -   Rows: 6364
+2026-02-16 16:34:06 - __main__ - INFO -   Columns: ['id_site', 'code_module', 'code_presentation', 'activity_type', 'week_from', 'week_to']
+2026-02-16 16:34:06 - __main__ - INFO - 
+Merging datasets...

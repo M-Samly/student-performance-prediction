@@ -1,0 +1,38 @@
+2026-02-16 16:50:43 - __main__ - INFO - ============================================================
+2026-02-16 16:50:43 - __main__ - INFO - STEP 2: DATA PREPROCESSING AND FEATURE ENGINEERING
+2026-02-16 16:50:43 - __main__ - INFO - ============================================================
+2026-02-16 16:50:44 - __main__ - INFO - Loaded data: (32593, 28)
+2026-02-16 16:50:44 - __main__ - INFO - 
+Handling missing values...
+2026-02-16 16:50:44 - __main__ - INFO - 
+Creating target variable...
+2026-02-16 16:50:46 - __main__ - INFO - Cleaned data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\cleaned_data.csv
+2026-02-16 16:50:46 - __main__ - INFO - 
+============================================================
+2026-02-16 16:50:46 - __main__ - INFO - FEATURE ENGINEERING
+2026-02-16 16:50:46 - __main__ - INFO - ============================================================
+2026-02-16 16:50:46 - __main__ - INFO - 
+Encoding categorical variables...
+2026-02-16 16:50:49 - __main__ - INFO - Featured data saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 16:50:49 - __main__ - INFO - 
+============================================================
+2026-02-16 16:50:49 - __main__ - INFO - PREPARING FEATURES AND TARGET
+2026-02-16 16:50:49 - __main__ - INFO - ============================================================
+2026-02-16 16:50:50 - __main__ - INFO - 
+Splitting data...
+2026-02-16 16:50:50 - __main__ - INFO - 
+Data split:
+2026-02-16 16:50:50 - __main__ - INFO -   Training: 22814 samples (70.0%)
+2026-02-16 16:50:50 - __main__ - INFO -   Validation: 3260 samples (10.0%)
+2026-02-16 16:50:50 - __main__ - INFO -   Test: 6519 samples (20.0%)
+2026-02-16 16:50:50 - __main__ - INFO - 
+Class distribution:
+2026-02-16 16:50:50 - __main__ - INFO -   Training - Pass: 10769, Fail: 12045
+2026-02-16 16:50:50 - __main__ - INFO -   Validation - Pass: 1539, Fail: 1721
+2026-02-16 16:50:50 - __main__ - INFO -   Test - Pass: 3077, Fail: 3442
+2026-02-16 16:50:51 - __main__ - INFO - 
+All splits saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split
+2026-02-16 16:50:51 - __main__ - INFO - 
+============================================================
+2026-02-16 16:50:51 - __main__ - INFO - PREPROCESSING COMPLETE!
+2026-02-16 16:50:51 - __main__ - INFO - ============================================================

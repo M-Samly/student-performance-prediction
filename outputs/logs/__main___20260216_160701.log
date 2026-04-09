@@ -1,0 +1,72 @@
+2026-02-16 16:07:01 - __main__ - INFO - ==================================================
+2026-02-16 16:07:01 - __main__ - INFO - STEP 7: GENERATING ANALYTICS AND INSIGHTS
+2026-02-16 16:07:01 - __main__ - INFO - ==================================================
+2026-02-16 16:07:01 - __main__ - INFO - Loaded data: (200, 14)
+2026-02-16 16:07:01 - __main__ - INFO - 
+==================================================
+2026-02-16 16:07:01 - __main__ - INFO - TOPIC-WISE PERFORMANCE ANALYSIS
+2026-02-16 16:07:01 - __main__ - INFO - ==================================================
+2026-02-16 16:07:01 - __main__ - INFO - 
+Topic Performance Statistics:
+2026-02-16 16:07:01 - __main__ - INFO -           topic  mean_score  median_score  std_score  min_score  max_score  pass_rate
+4        quiz_2    70.36275        70.915  17.080861      40.30      99.96       85.5
+3        quiz_1    69.97485        71.320  18.084789      40.38      99.83       79.0
+5        quiz_3    69.71925        69.985  17.479749      40.66      99.80       81.5
+2  assignment_3    66.45560        67.675  20.657214      31.25      99.86       72.0
+1  assignment_2    63.62575        62.690  20.388284      30.32      99.78       67.0
+0  assignment_1    62.16380        60.680  19.365428      31.02      99.30       65.5
+2026-02-16 16:07:01 - __main__ - INFO - Topic stats saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\topic_performance_stats.csv
+2026-02-16 16:07:01 - __main__ - INFO - 
+Weak Topics (avg < 50): []
+2026-02-16 16:07:02 - __main__ - INFO - 
+==================================================
+2026-02-16 16:07:02 - __main__ - INFO - ASSESSMENT DIFFICULTY ANALYSIS
+2026-02-16 16:07:02 - __main__ - INFO - ==================================================
+2026-02-16 16:07:02 - __main__ - INFO - 
+Assessment Difficulty Statistics:
+2026-02-16 16:07:02 - __main__ - INFO -       assessment  mean_score  max_score  difficulty_index difficulty_category    std_dev
+0   assignment_1    62.16380      99.30         62.602014              Medium  19.365428
+6  midterm_score    63.14345      99.73         63.314399              Medium  21.403342
+1   assignment_2    63.62575      99.78         63.766035              Medium  20.388284
+2   assignment_3    66.45560      99.86         66.548768              Medium  20.657214
+5         quiz_3    69.71925      99.80         69.858968              Medium  17.479749
+3         quiz_1    69.97485      99.83         70.094010                Easy  18.084789
+4         quiz_2    70.36275      99.96         70.390906                Easy  17.080861
+2026-02-16 16:07:02 - __main__ - INFO - Difficulty stats saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\assessment_difficulty_stats.csv
+2026-02-16 16:07:02 - __main__ - INFO - 
+Problematic Assessments:
+2026-02-16 16:07:02 - __main__ - INFO -   Too Hard: []
+2026-02-16 16:07:02 - __main__ - INFO -   Too Easy: []
+2026-02-16 16:07:04 - __main__ - INFO - 
+==================================================
+2026-02-16 16:07:04 - __main__ - INFO - ATTENDANCE VS PERFORMANCE ANALYSIS
+2026-02-16 16:07:04 - __main__ - INFO - ==================================================
+2026-02-16 16:07:04 - __main__ - INFO - 
+Attendance-Performance Correlation: 0.3428
+2026-02-16 16:07:04 - __main__ - INFO - P-value: 0.0000
+2026-02-16 16:07:04 - __main__ - INFO - Significance: Statistically significant
+2026-02-16 16:07:04 - __main__ - INFO - 
+Performance by Attendance Group:
+2026-02-16 16:07:04 - __main__ - INFO -                   count   mean  median    std  pass_rate
+attendance_group                                        
+Poor (<50%)          40  58.97   57.86  11.78      82.50
+Average (50-75%)     62  64.91   64.51  13.54      87.10
+Good (75-90%)        52  71.28   70.10  12.81      94.23
+Excellent (>90%)     46  71.23   69.99  13.45      93.48
+2026-02-16 16:07:04 - __main__ - INFO - Group stats saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\attendance_group_stats.csv
+2026-02-16 16:07:07 - __main__ - INFO - 
+==================================================
+2026-02-16 16:07:07 - __main__ - INFO - ADDITIONAL INSIGHTS
+2026-02-16 16:07:07 - __main__ - INFO - ==================================================
+2026-02-16 16:07:07 - __main__ - INFO - Overall Pass Rate: 89.50%
+2026-02-16 16:07:07 - __main__ - INFO - 
+Average Scores:
+2026-02-16 16:07:07 - __main__ - INFO -   midterm_score: 63.14
+2026-02-16 16:07:07 - __main__ - INFO -   final_grade: 66.83
+2026-02-16 16:07:07 - __main__ - INFO - 
+Analytics summary saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 16:07:07 - __main__ - INFO - All figures saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures
+2026-02-16 16:07:07 - __main__ - INFO - 
+==================================================
+2026-02-16 16:07:07 - __main__ - INFO - ANALYTICS GENERATION COMPLETE
+2026-02-16 16:07:07 - __main__ - INFO - ==================================================

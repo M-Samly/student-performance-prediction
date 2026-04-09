@@ -1,0 +1,65 @@
+2026-02-16 21:17:57 - __main__ - INFO - ==================================================
+2026-02-16 21:17:57 - __main__ - INFO - STEP 4: TRAINING IMPROVED MODELS
+2026-02-16 21:17:57 - __main__ - INFO - ==================================================
+2026-02-16 21:17:57 - __main__ - INFO - Training set: (22814, 21)
+2026-02-16 21:17:57 - __main__ - INFO - Validation set: (3260, 21)
+2026-02-16 21:17:57 - __main__ - INFO - Test set: (6519, 21)
+2026-02-16 21:17:57 - __main__ - INFO - 
+==================================================
+2026-02-16 21:17:57 - __main__ - INFO - TRAINING RANDOM FOREST
+2026-02-16 21:17:57 - __main__ - INFO - ==================================================
+2026-02-16 21:18:07 - __main__ - INFO - 
+Evaluating Random Forest on test set...
+2026-02-16 21:18:08 - __main__ - INFO - 
+Top 10 Most Important Features (Random Forest):
+2026-02-16 21:18:08 - __main__ - INFO -                    feature  importance
+18         num_assessments    0.297827
+20         is_unregistered    0.197509
+13          total_sessions    0.116548
+11            total_clicks    0.098155
+17               max_score    0.080478
+14               avg_score    0.069289
+15               std_score    0.038807
+16               min_score    0.030192
+12  avg_clicks_per_session    0.023960
+6      code_module_encoded    0.015067
+2026-02-16 21:18:08 - __main__ - INFO - 
+Random Forest saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 21:18:08 - __main__ - INFO - 
+==================================================
+2026-02-16 21:18:08 - __main__ - INFO - TRAINING GRADIENT BOOSTING
+2026-02-16 21:18:08 - __main__ - INFO - ==================================================
+2026-02-16 21:18:35 - __main__ - INFO - 
+Evaluating Gradient Boosting on test set...
+2026-02-16 21:18:35 - __main__ - INFO - 
+Top 10 Most Important Features (Gradient Boosting):
+2026-02-16 21:18:35 - __main__ - INFO -                        feature  importance
+18             num_assessments    0.696043
+20             is_unregistered    0.124523
+14                   avg_score    0.066864
+6          code_module_encoded    0.027107
+16                   min_score    0.022009
+11                total_clicks    0.018545
+13              total_sessions    0.011915
+10  module_presentation_length    0.011373
+15                   std_score    0.005347
+12      avg_clicks_per_session    0.004633
+2026-02-16 21:18:35 - __main__ - INFO - 
+Gradient Boosting saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 21:18:35 - __main__ - INFO - 
+==================================================
+2026-02-16 21:18:35 - __main__ - INFO - MODEL COMPARISON
+2026-02-16 21:18:35 - __main__ - INFO - ==================================================
+2026-02-16 21:18:35 - __main__ - INFO - 
+                   accuracy  precision    recall        f1   roc_auc
+random_forest      0.923301   0.880650  0.968801  0.922625  0.978546
+gradient_boosting  0.933732   0.910842  0.952876  0.931385  0.982509
+2026-02-16 21:18:35 - __main__ - INFO - 
+Best model based on F1-score: gradient_boosting (F1: 0.9314)
+2026-02-16 21:18:35 - __main__ - INFO - 
+Comparison saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\model_comparison.csv
+2026-02-16 21:18:35 - __main__ - INFO - Best model info saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\best_model_info.json
+2026-02-16 21:18:35 - __main__ - INFO - 
+==================================================
+2026-02-16 21:18:35 - __main__ - INFO - IMPROVED MODELS TRAINING COMPLETE
+2026-02-16 21:18:35 - __main__ - INFO - ==================================================

@@ -1,0 +1,9 @@
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Handling missing values...
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Initial missing values: 86757
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Final missing values: 0
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Removing duplicates...
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Removed 0 duplicate rows
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Creating target variable...
+2026-02-16 16:48:48 - src.data.preprocessor - INFO - Target variable created:
+2026-02-16 16:48:48 - src.data.preprocessor - INFO -   Pass (1): 15385 (47.2%)
+2026-02-16 16:48:48 - src.data.preprocessor - INFO -   Fail (0): 17208 (52.8%)

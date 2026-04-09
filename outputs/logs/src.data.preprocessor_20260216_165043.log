@@ -1,0 +1,23 @@
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Handling missing values...
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Initial missing values: 86757
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Final missing values: 0
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Removing duplicates...
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Removed 0 duplicate rows
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Creating target variable...
+2026-02-16 16:50:44 - src.data.preprocessor - INFO - Target variable created:
+2026-02-16 16:50:44 - src.data.preprocessor - INFO -   Pass (1): 15385 (47.2%)
+2026-02-16 16:50:44 - src.data.preprocessor - INFO -   Fail (0): 17208 (52.8%)
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoding categorical variables...
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded gender: 2 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded region: 13 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded highest_education: 5 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded imd_band: 11 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded age_band: 3 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded disability: 2 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded code_module: 7 unique values
+2026-02-16 16:50:46 - src.data.preprocessor - INFO - Encoded code_presentation: 4 unique values
+2026-02-16 16:50:49 - src.data.preprocessor - INFO - Preparing features and target...
+2026-02-16 16:50:49 - src.data.preprocessor - INFO - Available features: 21
+2026-02-16 16:50:49 - src.data.preprocessor - INFO - Features: ['gender_encoded', 'region_encoded', 'highest_education_encoded', 'imd_band_encoded', 'age_band_encoded', 'disability_encoded', 'code_module_encoded', 'code_presentation_encoded', 'num_of_prev_attempts', 'studied_credits', 'module_presentation_length', 'total_clicks', 'avg_clicks_per_session', 'total_sessions', 'avg_score', 'std_score', 'min_score', 'max_score', 'num_assessments', 'date_registration', 'is_unregistered']
+2026-02-16 16:50:49 - src.data.preprocessor - INFO - Features shape: (32593, 21)
+2026-02-16 16:50:50 - src.data.preprocessor - INFO - Target shape: (32593,)

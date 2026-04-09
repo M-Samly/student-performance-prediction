@@ -1,0 +1,52 @@
+2026-02-16 21:23:28 - __main__ - INFO - ==================================================
+2026-02-16 21:23:28 - __main__ - INFO - STEP 7: GENERATING ANALYTICS AND INSIGHTS
+2026-02-16 21:23:28 - __main__ - INFO - ==================================================
+2026-02-16 21:23:29 - __main__ - INFO - Loaded data: (32593, 53)
+2026-02-16 21:23:29 - __main__ - INFO - 
+==================================================
+2026-02-16 21:23:29 - __main__ - INFO - TOPIC-WISE PERFORMANCE ANALYSIS
+2026-02-16 21:23:29 - __main__ - INFO - ==================================================
+2026-02-16 21:23:29 - __main__ - WARNING - No topic columns found for analysis
+2026-02-16 21:23:29 - __main__ - INFO - 
+==================================================
+2026-02-16 21:23:29 - __main__ - INFO - ASSESSMENT DIFFICULTY ANALYSIS
+2026-02-16 21:23:29 - __main__ - INFO - ==================================================
+2026-02-16 21:23:29 - __main__ - WARNING - No assessment columns found for difficulty analysis
+2026-02-16 21:23:29 - __main__ - INFO - 
+==================================================
+2026-02-16 21:23:29 - __main__ - INFO - ATTENDANCE VS PERFORMANCE ANALYSIS
+2026-02-16 21:23:29 - __main__ - INFO - ==================================================
+2026-02-16 21:23:29 - __main__ - INFO - Using performance column: avg_score
+2026-02-16 21:23:29 - __main__ - WARNING - Required columns for attendance analysis not found
+2026-02-16 21:23:29 - __main__ - WARNING - Looking for: attendance_percentage and avg_score
+2026-02-16 21:23:29 - __main__ - INFO - 
+==================================================
+2026-02-16 21:23:29 - __main__ - INFO - ADDITIONAL INSIGHTS
+2026-02-16 21:23:29 - __main__ - INFO - ==================================================
+2026-02-16 21:23:29 - __main__ - INFO - Overall Pass Rate: 47.20%
+2026-02-16 21:23:29 - __main__ - INFO - 
+Average Scores:
+2026-02-16 21:23:29 - __main__ - INFO -   avg_score: 73.44
+2026-02-16 21:23:29 - __main__ - INFO -   std_score: 11.77
+2026-02-16 21:23:29 - __main__ - INFO -   min_score: 56.57
+2026-02-16 21:23:29 - __main__ - INFO -   max_score: 87.68
+2026-02-16 21:23:29 - __main__ - INFO -   score_range: 31.11
+2026-02-16 21:23:29 - __main__ - INFO -   passing_avg_score: 0.93
+2026-02-16 21:23:29 - __main__ - INFO -   low_avg_score: 0.03
+2026-02-16 21:23:29 - __main__ - INFO -   score_consistency: 0.17
+2026-02-16 21:23:29 - __main__ - INFO -   combined_risk_score: 0.58
+2026-02-16 21:23:29 - __main__ - INFO - 
+Risk Score Distribution:
+2026-02-16 21:23:29 - __main__ - INFO - combined_risk_score
+0    19000
+1     8819
+2     4235
+3      537
+4        2
+2026-02-16 21:23:29 - __main__ - INFO - 
+Analytics summary saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 21:23:29 - __main__ - INFO - All figures saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\figures
+2026-02-16 21:23:29 - __main__ - INFO - 
+==================================================
+2026-02-16 21:23:29 - __main__ - INFO - ANALYTICS GENERATION COMPLETE
+2026-02-16 21:23:29 - __main__ - INFO - ==================================================

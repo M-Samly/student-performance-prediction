@@ -1,0 +1,12 @@
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Successfully loaded 140 rows and 10 columns
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Successfully loaded 40 rows and 10 columns
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Loading model from: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:06:19 - src.utils.file_handler - INFO - Successfully loaded model from C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:06:31 - src.utils.file_handler - INFO - Loading model from: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 16:06:32 - src.utils.file_handler - INFO - Successfully loaded model from C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 16:06:39 - src.utils.file_handler - INFO - Loading model from: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 16:06:39 - src.utils.file_handler - INFO - Successfully loaded model from C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 16:06:49 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\best_model_evaluation.json
+2026-02-16 16:06:49 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\best_model_evaluation.json

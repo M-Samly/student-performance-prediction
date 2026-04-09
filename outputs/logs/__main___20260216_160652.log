@@ -1,0 +1,29 @@
+2026-02-16 16:06:52 - __main__ - INFO - ==================================================
+2026-02-16 16:06:52 - __main__ - INFO - STEP 6: GENERATING PREDICTIONS
+2026-02-16 16:06:52 - __main__ - INFO - ==================================================
+2026-02-16 16:06:52 - __main__ - INFO - Using model: Random_Forest
+2026-02-16 16:06:52 - __main__ - INFO - Loading from: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 16:06:55 - __main__ - INFO - Generating predictions for 40 students...
+2026-02-16 16:06:55 - __main__ - INFO - Full prediction report saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_report_full.csv
+2026-02-16 16:06:55 - __main__ - INFO - At-risk students report saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\at_risk_students.csv
+2026-02-16 16:06:55 - __main__ - INFO - 
+==================================================
+2026-02-16 16:06:55 - __main__ - INFO - PREDICTION SUMMARY
+2026-02-16 16:06:55 - __main__ - INFO - ==================================================
+2026-02-16 16:06:55 - __main__ - INFO - Total Students: 40
+2026-02-16 16:06:55 - __main__ - INFO - Predicted Pass: 39
+2026-02-16 16:06:55 - __main__ - INFO - Predicted Fail: 1
+2026-02-16 16:06:55 - __main__ - INFO - 
+Risk Distribution:
+2026-02-16 16:06:55 - __main__ - INFO -   High Risk: 1
+2026-02-16 16:06:55 - __main__ - INFO -   Medium Risk: 2
+2026-02-16 16:06:55 - __main__ - INFO -   Low Risk: 37
+2026-02-16 16:06:55 - __main__ - INFO - 
+At-Risk Students: 3 (7.5%)
+2026-02-16 16:06:55 - __main__ - INFO - Prediction Accuracy: 0.8750
+2026-02-16 16:06:55 - __main__ - INFO - 
+Summary saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_summary.json
+2026-02-16 16:06:55 - __main__ - INFO - 
+==================================================
+2026-02-16 16:06:55 - __main__ - INFO - PREDICTION GENERATION COMPLETE
+2026-02-16 16:06:55 - __main__ - INFO - ==================================================

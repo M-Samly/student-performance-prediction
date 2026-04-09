@@ -1,0 +1,16 @@
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Successfully loaded 22814 rows and 22 columns
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\validation.csv
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Successfully loaded 3260 rows and 22 columns
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 21:17:57 - src.utils.file_handler - INFO - Successfully loaded 6519 rows and 22 columns
+2026-02-16 21:18:08 - src.utils.file_handler - INFO - Saving model to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 21:18:08 - src.utils.file_handler - INFO - Successfully saved model to C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest.pkl
+2026-02-16 21:18:08 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest_metadata.json
+2026-02-16 21:18:08 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\random_forest_metadata.json
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Saving model to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Successfully saved model to C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting_metadata.json
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting_metadata.json
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\best_model_info.json
+2026-02-16 21:18:35 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\best_model_info.json

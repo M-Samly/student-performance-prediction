@@ -1,0 +1,6 @@
+2026-04-09 16:17:46 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\train.csv
+2026-04-09 16:17:46 - src.utils.file_handler - INFO - Successfully loaded 22814 rows and 22 columns
+2026-04-09 16:17:46 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\validation.csv
+2026-04-09 16:17:47 - src.utils.file_handler - INFO - Successfully loaded 3260 rows and 22 columns
+2026-04-09 16:17:47 - src.utils.file_handler - INFO - Loading CSV from: c:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-04-09 16:17:47 - src.utils.file_handler - INFO - Successfully loaded 6519 rows and 22 columns

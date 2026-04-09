@@ -1,0 +1,14 @@
+2026-02-16 21:22:57 - src.utils.file_handler - INFO - Loading JSON from: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\best_model_evaluation.json
+2026-02-16 21:22:57 - src.utils.file_handler - INFO - Successfully loaded JSON from C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\best_model_evaluation.json
+2026-02-16 21:22:57 - src.utils.file_handler - INFO - Loading model from: C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 21:23:16 - src.utils.file_handler - INFO - Successfully loaded model from C:\Users\M.SAMLY\Desktop\student performance prediction\models\improved\gradient_boosting.pkl
+2026-02-16 21:23:16 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\train_test_split\test.csv
+2026-02-16 21:23:16 - src.utils.file_handler - INFO - Successfully loaded 6519 rows and 22 columns
+2026-02-16 21:23:16 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Successfully loaded 32593 rows and 53 columns
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_report_full.csv
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Successfully saved 6519 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_report_full.csv
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\at_risk_students.csv
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Successfully saved 3566 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\at_risk_students.csv
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_summary.json
+2026-02-16 21:23:17 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\prediction_summary.json

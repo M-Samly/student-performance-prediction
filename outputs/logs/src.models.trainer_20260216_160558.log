@@ -1,0 +1,4 @@
+2026-02-16 16:05:58 - src.models.trainer - INFO - Training Logistic_Regression_Baseline...
+2026-02-16 16:05:58 - src.models.trainer - INFO - Training completed in 0.04 seconds
+2026-02-16 16:05:58 - src.models.trainer - INFO - Training metrics: {'accuracy': 0.8714285714285714, 'precision': 1.0, 'recall': 0.856, 'f1': 0.9224137931034483, 'roc_auc': 0.9354666666666667}
+2026-02-16 16:05:58 - src.models.trainer - INFO - Validation metrics: {'accuracy': 0.8, 'precision': 1.0, 'recall': 0.7777777777777778, 'f1': 0.8750000000000001, 'roc_auc': 0.9166666666666667}

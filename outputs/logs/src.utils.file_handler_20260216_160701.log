@@ -1,0 +1,8 @@
+2026-02-16 16:07:01 - src.utils.file_handler - INFO - Loading CSV from: C:\Users\M.SAMLY\Desktop\student performance prediction\data\processed\featured_data.csv
+2026-02-16 16:07:01 - src.utils.file_handler - INFO - Successfully loaded 200 rows and 14 columns
+2026-02-16 16:07:01 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\topic_performance_stats.csv
+2026-02-16 16:07:01 - src.utils.file_handler - INFO - Successfully saved 6 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\topic_performance_stats.csv
+2026-02-16 16:07:02 - src.utils.file_handler - INFO - Saving CSV to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\assessment_difficulty_stats.csv
+2026-02-16 16:07:02 - src.utils.file_handler - INFO - Successfully saved 7 rows to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\assessment_difficulty_stats.csv
+2026-02-16 16:07:07 - src.utils.file_handler - INFO - Saving JSON to: C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json
+2026-02-16 16:07:07 - src.utils.file_handler - INFO - Successfully saved JSON to C:\Users\M.SAMLY\Desktop\student performance prediction\outputs\reports\analytics_summary.json

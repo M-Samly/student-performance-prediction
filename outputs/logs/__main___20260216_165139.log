@@ -1,0 +1,34 @@
+2026-02-16 16:51:39 - __main__ - INFO - ==================================================
+2026-02-16 16:51:39 - __main__ - INFO - STEP 3: TRAINING BASELINE MODEL
+2026-02-16 16:51:39 - __main__ - INFO - ==================================================
+2026-02-16 16:51:39 - __main__ - INFO - Training set: (22814, 21)
+2026-02-16 16:51:39 - __main__ - INFO - Validation set: (3260, 21)
+2026-02-16 16:51:39 - __main__ - INFO - Test set: (6519, 21)
+2026-02-16 16:51:44 - __main__ - INFO - 
+Evaluating on test set...
+2026-02-16 16:51:44 - __main__ - INFO - 
+Top 10 Most Important Features:
+2026-02-16 16:51:44 - __main__ - INFO -                       feature  coefficient  abs_coefficient
+20            is_unregistered    -4.526719         4.526719
+8        num_of_prev_attempts    -0.796300         0.796300
+7   code_presentation_encoded     0.700301         0.700301
+18            num_assessments     0.464452         0.464452
+6         code_module_encoded    -0.343569         0.343569
+0              gender_encoded    -0.337688         0.337688
+5          disability_encoded    -0.273515         0.273515
+4            age_band_encoded    -0.230884         0.230884
+2   highest_education_encoded    -0.178241         0.178241
+12     avg_clicks_per_session     0.122804         0.122804
+2026-02-16 16:51:44 - __main__ - INFO - 
+Model saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\logistic_regression.pkl
+2026-02-16 16:51:44 - __main__ - INFO - Metadata saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\model_metadata.json
+2026-02-16 16:51:44 - __main__ - INFO - Feature importance saved to: C:\Users\M.SAMLY\Desktop\student performance prediction\models\baseline\feature_importance.csv
+2026-02-16 16:51:44 - __main__ - INFO - 
+==================================================
+2026-02-16 16:51:44 - __main__ - INFO - BASELINE MODEL TRAINING COMPLETE
+2026-02-16 16:51:44 - __main__ - INFO - ==================================================
+2026-02-16 16:51:44 - __main__ - INFO - Test Accuracy: 0.9018
+2026-02-16 16:51:44 - __main__ - INFO - Test Precision: 0.8714
+2026-02-16 16:51:44 - __main__ - INFO - Test Recall: 0.9292
+2026-02-16 16:51:44 - __main__ - INFO - Test F1-Score: 0.8993
+2026-02-16 16:51:44 - __main__ - INFO - Test ROC-AUC: 0.9608
